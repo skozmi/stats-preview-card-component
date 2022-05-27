@@ -1,0 +1,22 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "frontend mentor app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skozmi/stats-preview-card-component.git"
+  },
+  "author": "Miloš Mirković",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skozmi/stats-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/skozmi/stats-preview-card-component#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
