@@ -1,11 +1,34 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
+    background: hsl(233, 47%, 7%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
 }
 
 p {
     font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75)
 }
+
+/*containers*/
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.card {
+    background: hsl(244, 38%, 16%);
+}
+
+/*heading image*/
+#headImg {
+    width: 100%;
+}
+
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
